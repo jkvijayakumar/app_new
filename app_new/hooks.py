@@ -5,6 +5,9 @@ app_description = "new"
 app_email = "jkvijayaklumat@gmail.com"
 app_license = "mit"
 
+fixtures = ["Workspace"]
+
+
 # Apps
 # ------------------
 
